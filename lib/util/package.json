@@ -1,0 +1,7 @@
+{
+	"name": "Util",
+	"version": "1.0.0",
+	"description": "Util..",
+	"main": "util.js",
+	"private": true
+}

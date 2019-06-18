@@ -1,0 +1,10 @@
+{
+	"name": "sqlite",
+	"version": "1.0.0",
+	"description": "crud sqlite async await",
+	"main": "sqlite.js",
+	"private": true,
+	"dependencies": {
+		"sqlite3": "^4.0.8"
+	}
+}

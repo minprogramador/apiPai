@@ -1,0 +1,20 @@
+{
+  "name": "apiPai",
+  "version": "1.0.0",
+  "description": "Readme.md",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "sqlite3": "^4.0.9"
+  }
+}

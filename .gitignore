@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+!README.md
+**.log
+**.txt
+**.html
+**.md
+config/*.json
+.cache/*
+node_modules
+**.sqlite

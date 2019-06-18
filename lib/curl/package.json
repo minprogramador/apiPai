@@ -1,0 +1,7 @@
+{
+	"name": "Curl",
+	"version": "1.0.0",
+	"description": "Curl, request async await",
+	"main": "curl.js",
+	"private": true
+}

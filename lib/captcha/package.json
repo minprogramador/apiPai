@@ -1,0 +1,7 @@
+{
+	"name": "captcha",
+	"version": "1.0.0",
+	"description": "resolvendo 2captcha com lib curl ~ request async",
+	"main": "captcha.js",
+	"private": true
+}
